@@ -8,7 +8,7 @@ token:
   expiration-time: 86400000
   secret: "{cipher}AQBWEov/RpeAESnAtCJTF3mz7uJIWsvKQWwGtyYPe9Exy1gMKuXDNNREnGm2ias8da4G6H02eMf818UaY3zaJ53Se3+/tPvYuFNXrRBuoKobiQpqjNL0dPyIlvN3fXPWDnQgdS6/i2IR1SjGCIKnDv28MlrkVkDjDiwD0uL6v/3Fxuwfo4e8yswsur0C/3Wy6vU6eBFnqUVrKkzDZA94lor0YALl5qy4yiwEoFT1e8V9wua8IdWDldHGzhH/jiRGI60iC53AkSeNlGRyvZ6Kz8mobomkrWJyiURDLg2cmV3KVn58JD/WV6+G8OEp2QL8if9i8Ly8grF3TUlYpftHT/d9RhN0e8KWfMCLEFTeLECkb4amIRqQioYpGA949u2311DJZNQTXRSU/+W/cYLY7ZxcLREEEgFueKMj4JcjEYhmYxuxnd5Tk3RcQP9rU/obHxANjDxBR/w+SrZPviDAzM/E"
 gateway:
-  ip: 192.168.219.105
+  ip: 172.18.0.5
 
 order_service:
   url: http://ORDER-SERVICE/order-service/%s/orders
