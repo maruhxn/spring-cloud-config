@@ -1,0 +1,5 @@
+token:
+  expiration-time: 86400000
+  secret: defaulthchchchcsklfasdhlkvqnldkvnaslkdfjqdlkfjladksvndlklkasdfasdgadsgqvqwsavasaw
+gateway:
+  ip: 192.168.219.105
