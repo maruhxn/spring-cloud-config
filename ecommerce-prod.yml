@@ -2,4 +2,4 @@ token:
   expiration-time: 86400000
   secret: prodhchchchcsklfasdhlkvqnldkvnaslkdfjqdlkfjladksvndlklkasdfasdgadsgqvqwsavasaw
 gateway:
-  ip: 172.18.0.7
+  ip: 172.19.0.15
